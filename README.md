@@ -2,7 +2,9 @@
 Генерация листинга файлов исходных кодов в виде tex-файла и pdf-документа с разметкой и аннотацией.
 
 ## Зависимости
-- sudo yum install texlive-collection-langcyrillic.noarch texlive.x86_64 texlive-t2.noarch texlive-babel.noarch texlive-cm.noarch texlive-cyrillic.noarch texlive-pdflex.noarch
+```bash
+  sudo yum install texlive-collection-langcyrillic.noarch texlive.x86_64 texlive-t2.noarch texlive-babel.noarch texlive-cm.noarch texlive-cyrillic.noarch texlive-pdflex.noarch
+```
 
 ## Использование
 ```bash
